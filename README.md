@@ -13,4 +13,5 @@
     |   |-- Use case specification - Pay Order.pdf
     |   |-- Use case specification - Place Order.pdf
     |   |-- Use case specification - Place Rush Order.pdf
-    |-- README.md
+    |-- all_diagram.astah
+    README.md
