@@ -14,4 +14,4 @@
     |   |-- Use case specification - Place Order.pdf
     |   |-- Use case specification - Place Rush Order.pdf
     |-- all_diagram.astah
-    |-- README.md
+    README.md
