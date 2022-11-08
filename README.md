@@ -53,3 +53,5 @@
                 Use case specification - Pay Order.pdf
                 Use case specification - Place Order.pdf
                 Use case specification - Place Rush Order.pdf
+
+**Lab04**: Design GUI for AIMS System

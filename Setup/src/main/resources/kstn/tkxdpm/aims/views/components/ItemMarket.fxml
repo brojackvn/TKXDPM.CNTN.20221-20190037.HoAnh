@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.String?>
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="215.0" prefWidth="225.0" style="-fx-background-color: rgba(237, 90, 36, 0.92);" stylesheets="@../../../../../css/style.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="kstn.tkxdpm.aims.controllers.ItemMarketController">
+   <children>
+      <VBox alignment="CENTER" layoutX="63.0" layoutY="-1.0" AnchorPane.bottomAnchor="0.0" AnchorPane.leftAnchor="0.0" AnchorPane.rightAnchor="0.0" AnchorPane.topAnchor="0.0">
+         <children>
+            <HBox alignment="CENTER" prefHeight="40.0" prefWidth="206.0">
+               <children>
+                  <Label fx:id="nameLabel" prefHeight="23.0" prefWidth="159.0" text="Novel" textFill="WHITE" HBox.hgrow="SOMETIMES">
+                     <font>
+                        <Font name="Segoe UI Bold" size="18.0" />
+                     </font>
+                  </Label>
+                  <Label fx:id="priceLabel" alignment="CENTER_RIGHT" prefHeight="23.0" prefWidth="141.0" text="\$3.00" textFill="WHITE" HBox.hgrow="ALWAYS">
+                     <font>
+                        <Font name="Segoe UI Bold" size="18.0" />
+                     </font>
+                  </Label>
+               </children>
+               <padding>
+                  <Insets left="5.0" right="5.0" />
+               </padding>
+            </HBox>
+            <ImageView fx:id="image" fitHeight="131.0" fitWidth="160.0" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../../../../../imgs/harry-potter-book.png" />
+               </image>
+            </ImageView>
+         </children>
+         <padding>
+            <Insets left="7.0" right="7.0" />
+         </padding>
+      </VBox>
+   </children>
+   <styleClass>
+      <String fx:value="fruit-item" />
+      <String fx:value="shadow" />
+   </styleClass>
+</AnchorPane>

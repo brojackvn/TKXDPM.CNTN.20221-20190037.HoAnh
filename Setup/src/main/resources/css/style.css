@@ -1,0 +1,55 @@
+.background-app {
+    -fx-background-color: linear-gradient(to bottom, #ff8e31 0%,#ed7424 100%);
+}
+
+.search-box{
+    -fx-background-color:#FFFFFF;
+    -fx-background-radius: 100;
+}
+
+.transparent{
+    -fx-background-color: rgba(0,0,0,0);
+}
+
+.search-button{
+    -fx-background-color: linear-gradient(to bottom, #ff8e31 0%,#ed7424 100%);
+    -fx-background-radius: 30;
+}
+
+.right-bar{
+    -fx-background-color: #D3D3D3;
+}
+
+.shadow{
+    -fx-effect: dropShadow(three-pass-box,rgba(0,0,0,0.1), 10.0 , 0.0 , 0.0 ,10.0);
+}
+
+.chosen-fruit-card{
+    -fx-background-color: rgba(237, 90, 36, 0.92);
+    -fx-background-radius: 30;
+}
+
+.comboBox{
+    -fx-background-color: #ffffff;
+    -fx-background-radius: 30;
+}
+
+.add-btn{
+    -fx-background-color: #FFFFFF;
+    -fx-background-radius: 100;
+}
+
+.free-delivery-card{
+    -fx-background-color: #D3D3D3;
+    -fx-background-radius: 30;
+}
+
+.shopping-online-card{
+    -fx-background-color: #BAEAC3;
+    -fx-background-radius: 30;
+}
+
+.fruit-item{
+    -fx-background-color: #FFFFFF;
+    -fx-background-radius: 30;
+}

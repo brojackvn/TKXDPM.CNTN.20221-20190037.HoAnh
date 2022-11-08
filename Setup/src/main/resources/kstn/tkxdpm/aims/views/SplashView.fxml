@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane minHeight="768.0" minWidth="1366.0" styleClass="background-app" stylesheets="@../../../../css/style.css" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="kstn.tkxdpm.aims.controllers.SplashController">
+   <children>
+      <ImageView fitHeight="250.0" fitWidth="279.0" layoutX="558.0" layoutY="259.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../imgs/appicon2.png" />
+         </image>
+      </ImageView>
+   </children>
+</AnchorPane>
