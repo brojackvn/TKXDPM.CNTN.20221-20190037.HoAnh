@@ -55,6 +55,19 @@
                 Use case specification - Place Rush Order.pdf
 
 **Lab04**: Design GUI for AIMS System
+
     Code GUI by JavaFX - SceneBuilder(drag&drop)
 
 **Lab05**: Design Subsystem - System Interface Design
+    
+    System Inrerface Design
+    └───Interbank
+        ├───Class Analysis Diagram
+        │       Checkpoints.png
+        │       Subsystem Depencency.png
+        │       Subsystem.png
+        │
+        └───Sequence Diagram
+                SD of Pay Order.png
+                SD of Refund.png
+                SD of View Balance.png
