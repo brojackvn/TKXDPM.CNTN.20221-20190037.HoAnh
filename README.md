@@ -71,3 +71,9 @@
                 SD of Pay Order.png
                 SD of Refund.png
                 SD of View Balance.png
+
+**Lab06**: Class Design
+    
+    - Relational Exception
+    - Relational Classes
+    - General Design
