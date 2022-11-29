@@ -77,3 +77,13 @@
     - Relational Exception
     - Relational Classes
     - General Design
+
+**Lab07**: Data Modeling + Unit Tests
+
+    Data Modeling
+        - Conceptual Data Model
+        - Logical Data Model
+        - Physical Data Model
+
+    Unit Tests
+        - JUnit Tests
